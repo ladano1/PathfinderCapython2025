@@ -1,4 +1,2 @@
 # PathfinderCapython2025
-group project 
-
-## welcome Laith
+group project with 2nd and 3rd years
